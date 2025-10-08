@@ -1,0 +1,16 @@
+.title1 {
+    text-align: center;
+}
+
+.recipe_list {
+    background-color: lightskyblue;
+    display: inline-flex;
+    text-align: center;
+    width: 350px;
+    list-style-type: none;
+    padding: auto;
+}
+
+body {
+    background-color: aliceblue;
+}
